@@ -4,7 +4,7 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
+	background: #5E1EFE;
 }
 .container {
 	width: 960px;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #FADD1E;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #553E80;
 	margin: 0px;
 	float: left;
 	width: 100%;
